@@ -1,0 +1,4 @@
+- Sequence Management
+- Copy Execution
+- System Integration
+- UI/应用层不算领域，只是调用领域服务
